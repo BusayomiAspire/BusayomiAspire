@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, Python, PHP/MySQL, Data Analysis etc.
 - 🌱 I’m currently learning JavaScrpit
 - 💞️ I’m looking to collaborate on JavaScript
-- 📫 How to reach me, +2348160230048, www.instagram.com/busayomi_aspire
+- 📫 How to reach me, +2348160230048, www.instagram.com/vessleofhonour/
 
 <!---
 BusayomiAspire/BusayomiAspire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
